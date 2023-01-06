@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Development
+Full Stack Web Developer
 
 
 # 💻 Tech Stack:
